@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/JsBSWkZ.png">
+<center><img src="http://i.imgur.com/JsBSWkZ.png"></center>
 
 ## Crystalshire
 A free-to-play MMORPG created using Eclipse Origins
@@ -15,18 +15,22 @@ They should help get you started, but everything else you'll need to figure out 
 
 ### Videos
 Crystalshire trailer (unfinished)
+http://www.youtube.com/watch?v=yYq3T5Dc-e4
 
 [![Crystalshire trailer](http://img.youtube.com/vi/yYq3T5Dc-e4/0.jpg)](http://www.youtube.com/watch?v=yYq3T5Dc-e4)
 
 Gameplay video
+http://www.youtube.com/watch?v=Z1n4so2_ZcU
 
 [![Gameplay video](http://img.youtube.com/vi/Z1n4so2_ZcU/0.jpg)](http://www.youtube.com/watch?v=Z1n4so2_ZcU)
 
 Sewer Troll boss fight
+http://www.youtube.com/watch?v=rqUK6nl69zo
 
 [![Sewer Troll boss fight](http://img.youtube.com/vi/rqUK6nl69zo/0.jpg)](http://www.youtube.com/watch?v=rqUK6nl69zo)
 
 Molton Lady boss fight
+http://www.youtube.com/watch?v=AE_3iT1AcHI
 
 [![Molton lady boss fight](http://img.youtube.com/vi/AE_3iT1AcHI/0.jpg)](http://www.youtube.com/watch?v=AE_3iT1AcHI)
 
