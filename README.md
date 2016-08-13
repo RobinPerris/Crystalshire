@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="http://i.imgur.com/JsBSWkZ.png"></div>
+<img src="http://i.imgur.com/Wri8Nu3.png">
 
 ## Crystalshire
 A free-to-play MMORPG created using Eclipse Origins
