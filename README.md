@@ -9,27 +9,30 @@ Crystalshire was developed in 2011 using the Eclipse Origins open-source MMORPG 
 ### How to use
 This was not designed to be an open-source project. The source is being released for educational purposes. I would not suggest using this in a production game.
 
-If you're serious, you can check out the various tutorials and guides available for the Eclipse Origins engine: [Eclipse Origins on Github](https://github.com/RobinPerris/EclipseOrigins)
+The repository also doesn't include any of the non-code assets used by the game. As such, you'll need to use your own instead.
+
+If you're serious, you can check out the various tutorials and guides available for the Eclipse Origins engine: 
+[Eclipse Origins on Github](https://github.com/RobinPerris/EclipseOrigins)
 
 They should help get you started, but everything else you'll need to figure out by reading the code.
 
 ### Videos
-Crystalshire trailer (unfinished)
+Crystalshire trailer (unfinished).
 http://www.youtube.com/watch?v=yYq3T5Dc-e4
 
 [![Crystalshire trailer](http://img.youtube.com/vi/yYq3T5Dc-e4/0.jpg)](http://www.youtube.com/watch?v=yYq3T5Dc-e4)
 
-Gameplay video
+Gameplay video.
 http://www.youtube.com/watch?v=Z1n4so2_ZcU
 
 [![Gameplay video](http://img.youtube.com/vi/Z1n4so2_ZcU/0.jpg)](http://www.youtube.com/watch?v=Z1n4so2_ZcU)
 
-Sewer Troll boss fight
+Sewer Troll boss fight.
 http://www.youtube.com/watch?v=rqUK6nl69zo
 
 [![Sewer Troll boss fight](http://img.youtube.com/vi/rqUK6nl69zo/0.jpg)](http://www.youtube.com/watch?v=rqUK6nl69zo)
 
-Molton Lady boss fight
+Molton Lady boss fight.
 http://www.youtube.com/watch?v=AE_3iT1AcHI
 
 [![Molton lady boss fight](http://img.youtube.com/vi/AE_3iT1AcHI/0.jpg)](http://www.youtube.com/watch?v=AE_3iT1AcHI)
