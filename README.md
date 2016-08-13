@@ -1,10 +1,10 @@
 <img src="http://i.imgur.com/Wri8Nu3.png">
 
 ## Crystalshire
-A free-to-play MMORPG created using Eclipse Origins
+A free-to-play ORPG created using Eclipse Origins
 
 ### About Crystalshire
-Crystalshire was developed in 2011 using the Eclipse Origins open-source MMORPG engine. It went through several iterations before being taken down in 2014.
+Crystalshire was developed in 2011 using the Eclipse Origins open-source ORPG engine. It went through several iterations before being taken down in 2014.
 
 ### How to use
 This was not designed to be an open-source project. The source is being released for educational purposes. I would not suggest using this in a production game.
